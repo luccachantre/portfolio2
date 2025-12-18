@@ -1,0 +1,10 @@
+#nav-container {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav-container a {
+    cursor: pointer;
+}
