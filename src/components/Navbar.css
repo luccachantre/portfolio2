@@ -1,8 +1,12 @@
-#nav-container {
-    height: 200px;
+.navbar {
     width: 100%;
+    background-color: rgb(51, 106, 183);
+}
+
+#nav-container {
     display: flex;
     justify-content: space-between;
+    padding: 50px;
 }
 
 #nav-container a {
