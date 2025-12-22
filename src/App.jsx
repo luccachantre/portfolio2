@@ -5,6 +5,7 @@ import "./App.css";
 
 import Contact from "./components/Contact.jsx";
 import Navbar from "./components/Navbar.jsx";
+import Intro from "./components/Intro.jsx";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -12,6 +13,7 @@ function App() {
   return (
     <>
       <Navbar />
+      <Intro />
       {/* <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />

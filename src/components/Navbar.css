@@ -3,12 +3,12 @@
     background-color: rgb(51, 106, 183);
 }
 
-#nav-container {
+.nav-container {
     display: flex;
     justify-content: space-between;
     padding: 50px;
 }
 
-#nav-container a {
+.nav-container a {
     cursor: pointer;
 }
