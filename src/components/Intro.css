@@ -1,0 +1,17 @@
+.intro {
+    font-family: 'Arimo', sans-serif;
+}
+
+.intro h1 {
+    font-size: 3rem; 
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.intro p {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
